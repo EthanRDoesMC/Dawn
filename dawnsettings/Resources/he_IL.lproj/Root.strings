@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+    <key>DEFAULT</key>
+    <string>לפי מערכת</string>
+    <key>LIGHT</key>
+    <string>בהיר</string>
+    <key>DARK</key>
+    <string>כהה</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>באנרים והתראות</string>
+	<key>DOCK</key>
+	<string>דוק</string>
+	<key>WIDGETS</key>
+	<string>ווידג'טים</string>
+	<key>NC_BUTTONS</key>
+	<string>כפתורי מרכז ההתראות</string>
+	<key>FOLDERS</key>
+	<string>תיקיות</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>נגן המוזיקה במסך נעילה</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>לחיצה ארוכה על אייקונים במסך הבית</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>אפליקציות (בטא)</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+    <string>בשביל להחיל שינוי בהגדרה זו, יש לעשות ריסטארט לאפליקציות או לעשות ריספרינג למכשיר.</string>
+    <key>APPLICATIONS</key>
+    <string>אפליקציות</string>
+    <key>ABOUT_LABEL</key>
+    <string>אודות</string>
+    <key>ABOUT_FOOTER</key>
+    <string>המחיר של Dawn היה אמור להיות $1, אבל החלטתי לפרסם אותו בחינם. אם תוכל/י לתרום כל סכום זה יהיה מדהים! תודה לך שאת\ה משתמש בטוויק שלי, אני מקווה שתהנה/י ממנו כמוני.</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>תרומה באמצעות Paypal</string>
+    <key>DONATE_NOTE</key>
+    <string>כל תרומה מוערכת מאוד!</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>הטוויק נבנה על ידי EthanRDoesMC</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>תרגום לעברית - גיל שחר (gilshahar7)</string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>תמונת הרקע © 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>קרדיטים על התרגום</string>
+</dict>
+</plist>

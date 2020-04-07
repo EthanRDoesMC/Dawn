@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+    <key>DEFAULT</key>
+    <string>默認</string>
+    <key>LIGHT</key>
+    <string>淺色</string>
+    <key>DARK</key>
+    <string>深色</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>通知和橫幅</string>
+	<key>DOCK</key>
+	<string>Dock</string>
+	<key>WIDGETS</key>
+	<string>Widgets 小工具</string>
+	<key>NC_BUTTONS</key>
+	<string>通知中心按鈕</string>
+	<key>FOLDERS</key>
+	<string>文件夾</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>鎖屏播放介面</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>主屏頁 3D Touch 快捷</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>應用程序 (Beta)</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+    <string>設置成默認之後，你需要重啓其應用程式以便恢復默認設置。另一個方法就是respring。</string>
+    <key>APPLICATIONS</key>
+    <string>應用程序</string>
+    <key>ABOUT_LABEL</key>
+    <string>關於</string>
+    <key>ABOUT_FOOTER</key>
+    <string>原本Dawn會以1美元的價格出售，但經過深思熟慮後最終我還是免費發佈。如果有能力的話，可以捐贈1美元（或任何數目），我會由衷的感謝你的支持。最後非常謝謝你使用Dawn，希望你可以跟我一樣用得很開心，你們的支持是我最大的動力。</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>使用 Paypal 捐贈</string>
+    <key>DONATE_NOTE</key>
+    <string>我由衷的感激所有捐贈，請支持我！</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>插件作者：EthanRDoesMC</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>繁體中文(Chinese Traditional)：volcanoz95</string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>背景圖 © 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>本地化團隊</string>
+</dict>
+</plist>

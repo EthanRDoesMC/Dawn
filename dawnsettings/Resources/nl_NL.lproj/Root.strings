@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+    <key>DEFAULT</key>
+    <string>Standaard</string>
+    <key>LIGHT</key>
+    <string>Licht</string>
+    <key>DARK</key>
+    <string>Donker</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>Banners en Meldingen</string>
+	<key>DOCK</key>
+	<string>Dock</string>
+	<key>WIDGETS</key>
+	<string>Widgets</string>
+	<key>NC_BUTTONS</key>
+	<string>Berichtencentrum knoppen</string>
+	<key>FOLDERS</key>
+	<string>Mappen</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>Vergrendelscherm Mediaspeler</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>Beginscherm Snelle Acties</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>Applicaties (Beta)</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+    <string>Na het wijzigen van deze optie naar 'Standaard', moet je de applicaties herstarten waarbij het lichte of donkere uiterlijk gedwongen werd gebruikt, zodat de applicaties zich weer normaal gedragen. Je apparaat respringen zal dit ook oplossen.</string>
+    <key>APPLICATIONS</key>
+    <string>Applicaties</string>
+    <key>ABOUT_LABEL</key>
+    <string>Over</string>
+    <key>ABOUT_FOOTER</key>
+    <string>Dawn zou eigenlijk $1 kosten, maar ik heb besloten om het gratis te publiceren. Als je $1 (andere waarde mag ook, het wordt enorm op prijs gesteld!) zou kunnen doneren, zou het geweldig zijn! Bedankt voor het gebruiken van Dawn. Ik hoop dat je er net zo veel plezier aan beleeft als ik.</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>Doneer met PayPal</string>
+    <key>DONATE_NOTE</key>
+    <string>Alle donaties worden zeer gewaardeerd!</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>Created by EthanRDoesMC</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>Translated to Dutch by: André Hessels (@HesselsAndre on Twitter)</string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>Achtergrondafbeelding © 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>Credits voor vertalingen</string>
+</dict>
+</plist>

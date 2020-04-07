@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+    <key>DEFAULT</key>
+    <string>Défaut</string>
+    <key>LIGHT</key>
+    <string>Clair</string>
+    <key>DARK</key>
+    <string>Sombre</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>Bannières et Notifications</string>
+	<key>DOCK</key>
+	<string>Dock</string>
+	<key>WIDGETS</key>
+	<string>Widgets</string>
+	<key>NC_BUTTONS</key>
+	<string>Boutons du Centre de Notifications</string>
+	<key>FOLDERS</key>
+	<string>Dossiers</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>Contrôles Musique d’Écran Verrouillé</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>Actions Rapides d’Écran d’accueil</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>Applications (Beta)</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+    <string>Après avoir mis cette option à défaut, vous devrez redémarrer les applications qui avait une apparence claire/sombre forcée pour retourner au fonctionnement classique. Un “respring” marche aussi.</string>
+    <key>APPLICATIONS</key>
+    <string>Applications</string>
+    <key>ABOUT_LABEL</key>
+    <string>Sur Dawn</string>
+    <key>ABOUT_FOOTER</key>
+    <string>Dawn allait coûter $1, mais j’ai décidé de le publier gratuitement. Si vous le pouvez, faites un don de $1 (toutes les donations sont grandement appréciées) ça serait génial! Merci d’utiliser Dawn. J’espère que vous l’aimez autant que moi.</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>Faites un don PayPal</string>
+    <key>DONATE_NOTE</key>
+    <string>Toutes les donations sont très appréciées!</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>Créé par EthanRDoesMC</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>Traductions par TinQ0</string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>Image de fond © 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>Credits de Localisation</string>
+</dict>
+</plist>

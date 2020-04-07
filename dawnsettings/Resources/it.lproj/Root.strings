@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+    <key>DEFAULT</key>
+    <string>Predefinito</string>
+    <key>LIGHT</key>
+    <string>Chiaro</string>
+    <key>DARK</key>
+    <string>Scuro</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>Banner e Notifiche</string>
+	<key>DOCK</key>
+	<string>Dock</string>
+	<key>WIDGETS</key>
+	<string>Widget</string>
+	<key>NC_BUTTONS</key>
+	<string>Pulsanti del Centro Notifiche</string>
+	<key>FOLDERS</key>
+	<string>Cartelle</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>Comandi multimediali sulla schermata di blocco</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>Menù azioni rapide</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>Applicazioni (Beta)</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+    <string>Se impostato su Predefinito, dovrai riavviare le applicazioni sulle quali avevi impostato esclusivamente l'Aspetto Chiaro/Scuro. Anche un Respring andrà bene.</string>
+    <key>APPLICATIONS</key>
+    <string>Applicazioni</string>
+    <key>ABOUT_LABEL</key>
+    <string>Autore</string>
+    <key>ABOUT_FOOTER</key>
+    <string>Inizialmente ho pensato di far pagare Dawn 1$, ma ho deciso di rilasciarlo gratuitamente. Se puoi donarmi 1$ (o quello che ti senti, davvero) e offrirmi un espresso, sarebbe magnifico! Ti ringrazio di utilizzare Dawn. Spero possa piacerti quanto piace a me.</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>Dona con PayPal</string>
+    <key>DONATE_NOTE</key>
+    <string>Tutte le donazioni sono ben accette!</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>Realizzato da EthanRDoesMC</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>Tradotto in italiano da Sheik92</string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>Background Image © 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>Altre traduzioni</string>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+    <key>DEFAULT</key>
+    <string>기본 설정</string>
+    <key>LIGHT</key>
+    <string>라이트 모드</string>
+    <key>DARK</key>
+    <string>다크 모드</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>배너와 알림</string>
+	<key>DOCK</key>
+	<string>Dock</string>
+	<key>WIDGETS</key>
+	<string>위젯</string>
+	<key>NC_BUTTONS</key>
+	<string>알림 센터 버튼</string>
+	<key>FOLDERS</key>
+	<string>폴더</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>잠금 화면 미디어 플레이어</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>홈 화면 빠른 액션</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>앱 (베타)</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+    <string>이 옵션을 기본으로 바꾼 후에는 앱을 재시작하거나 리스프링을 해야만 적용됩니다.</string>
+    <key>APPLICATIONS</key>
+    <string>앱</string>
+    <key>ABOUT_LABEL</key>
+    <string>정보</string>
+    <key>ABOUT_FOOTER</key>
+    <string>Dawn은 원래 1$에 판매할 계획이였으나, 무료로 제공하기로 결정하였습니다. 혹시 1$(또는 아무 금액)를 기부해주신다면 감사하겠습니다! Dawn을 사용해 주셔서 감사하고 이 경험을 즐겨주시기 바랍니다!</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>PayPal로 후원하기</string>
+    <key>DONATE_NOTE</key>
+    <string>후원은 저에게 큰 도움이 됩니다!</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>EthanRDoesMC 제작</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>Korean Translation by @NoaHimesaka1873 (Twitter)</string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>배경 이미지 © 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>현지화에 도움을 주신 분들</string>
+</dict>
+</plist>

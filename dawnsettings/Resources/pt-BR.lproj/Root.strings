@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT_FOOTER</key>
+	<string>Dawn custaria US$ 1, mas eu decidi lançá-lo gratuitamente. Se você pode doar US$ 1 (doações de qualquer valor são muito apreciadas), seria incrível! Obrigado por usar o Dawn. Espero que você goste tanto quanto eu.</string>
+	<key>ABOUT_LABEL</key>
+	<string>Sobre</string>
+	<key>APPLICATIONS</key>
+	<string>Aplicativos</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+	<string>Depois de definir essa opção como Padrão, você precisará reiniciar os aplicativos que foram forçados a usar sua aparência clara/escura para que eles retornem ao comportamento padrão. Um respring também irá corrigi-lo.</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>Aplicativos (Beta)</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>Banners e Notificações</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>Criado por EthanRDoesMC</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>Traduzido por Lucas Pedrosa</string>
+	<key>DARK</key>
+	<string>ESCURO</string>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+	<key>DEFAULT</key>
+	<string>PADRÃO </string>
+	<key>DOCK</key>
+	<string>Dock</string>
+	<key>DONATE_NOTE</key>
+	<string>Todas as doações são muito apreciadas!</string>
+	<key>DONATE_PAYPAL</key>
+	<string>Doar através do PayPal</string>
+	<key>ETHANRDOESMC_TWITTER</key>
+	<string>EthanRDoesMC</string>
+	<key>ETHAN_WEBSITE</key>
+	<string>EthanRDoesMC</string>
+	<key>FOLDERS</key>
+	<string>Pastas</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>Ações Rápidas da Tela Inicial</string>
+	<key>IMAGE_COPYRIGHT</key>
+	<string>Plano de Fundo © 2019 EthanRDoesMC.</string>
+	<key>LIGHT</key>
+	<string>CLARO</string>
+	<key>LOCALIZATION_CREDITS</key>
+	<string>Créditos de Tradução</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>Media Player da Tela de Bloqueio</string>
+	<key>NC_BUTTONS</key>
+	<string>Botões da Central de Notificação</string>
+	<key>WIDGETS</key>
+	<string>Widgets</string>
+</dict>
+</plist>

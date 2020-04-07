@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT_FOOTER</key>
+	<string>كنت على وشك ان أطلق Dawn بسعر $1،  لكن قررت ان اطلقة مجانا. اذا كنت تستطيع التبرع بأي مبلغ،  اقدر هذا كثيرا. شكرا لك لاستخدام Dawn،  اتمنى ان تستمتع به.</string>
+	<key>ABOUT_LABEL</key>
+	<string>حول</string>
+	<key>APPLICATIONS</key>
+	<string>التطبيقات</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+	<string>بعد تفعيل هذا الخيار الى الوضع الأفتراضي،  يجب غلق و أعادة تشغيل التطبيقات التي كانت تستخدم الوضع الفاتح\الداكن،  من اجل اعادتها الى وضعها الطبيعي.</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>التطبيقات (بيتا)</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>الشعارات والتنبيهات</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>المطور EthanRDoesMC</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>ترجمة للعربية sevenpastzeero</string>
+	<key>DARK</key>
+	<string>داكن</string>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+	<key>DEFAULT</key>
+	<string>إفتراضي</string>
+	<key>DOCK</key>
+	<string>شريط الايقونات</string>
+	<key>DONATE_NOTE</key>
+	<string>كل التبرعات تحظى بتقدير كبير،  شكرا!</string>
+	<key>DONATE_PAYPAL</key>
+	<string>التبرع عن طريق پاي پال</string>
+	<key>ETHANRDOESMC_TWITTER</key>
+	<string>صفحة تويتر للمطور</string>
+	<key>ETHAN_WEBSITE</key>
+	<string>موقع المطور</string>
+	<key>FOLDERS</key>
+	<string>المجلدات</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>قائمة الخيارات السريعة للشاشة الرئيسية</string>
+	<key>IMAGE_COPYRIGHT</key>
+	<string>صورة الخلفية © 2019 EthanRDoesMC.</string>
+	<key>LIGHT</key>
+	<string>فاتح</string>
+	<key>LOCALIZATION_CREDITS</key>
+	<string>الشكر للمترجمين</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>مشغل الوسائط لشاشة القفل</string>
+	<key>NC_BUTTONS</key>
+	<string>زر مركز الأشعارات</string>
+	<key>WIDGETS</key>
+	<string>الأدوات</string>
+</dict>
+</plist>

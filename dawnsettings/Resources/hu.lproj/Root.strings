@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+    <key>DEFAULT</key>
+    <string>Alapértelmezett</string>
+    <key>LIGHT</key>
+    <string>Világos</string>
+    <key>DARK</key>
+    <string>Sötét</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>Szalaghirdetések és Értesítések</string>
+	<key>DOCK</key>
+	<string>Dock</string>
+	<key>WIDGETS</key>
+	<string>Widgetek</string>
+	<key>NC_BUTTONS</key>
+	<string>Értesítési Központi Gombok</string>
+	<key>FOLDERS</key>
+	<string>Mappák</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>Médialejátszó a Zárolási Képernyőn</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>Gyors Elérés a Főképernyőn</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>Alkalmazások (Béta)</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+    <string>Miután alapértelmezettre állítod ezt a beállítást, újra kell majd indítanod azokat az alkalmazásokat, amelyek világos/sötét megjelenésre voltak állítva, hogy visszaálljanak az alaphelyzetükbe. A készülék "respring"-elése is megjavítja.</string>
+    <key>APPLICATIONS</key>
+    <string>Alkalmazások</string>
+    <key>ABOUT_LABEL</key>
+    <string>A Dawn-ról</string>
+    <key>ABOUT_FOOTER</key>
+    <string>Úgy volt hogy a Dawn 1$ lesz, de végül ingyenesen adtam ki. Ha tudnál támogatni 1$-al (bármilyen összegű támogatást szívesen veszek) nagyon örülnék neki! Köszönöm, hogy használod a Dawn-t. Remélem Te is legalább annyira élvezni fogod, mint amennyire én.</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>Támogass PayPal-on</string>
+    <key>DONATE_NOTE</key>
+    <string>Minden támogatásért nagyon hálás vagypk!</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>EthanRDoesMC által készítve</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>Hungarian Translation by Abel</string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>Háttérkép © 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>Fordították:</string>
+</dict>
+</plist>

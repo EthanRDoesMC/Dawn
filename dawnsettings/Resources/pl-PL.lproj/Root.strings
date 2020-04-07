@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+    <key>DEFAULT</key>
+    <string>Default</string>
+    <key>LIGHT</key>
+    <string>Jasny</string>
+    <key>DARK</key>
+    <string>Ciemny</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>Banery i Powiadomienia</string>
+	<key>DOCK</key>
+	<string>Dock</string>
+	<key>WIDGETS</key>
+	<string>Widżety</string>
+	<key>NC_BUTTONS</key>
+	<string>Przyciski Centrum Powiadomień</string>
+	<key>FOLDERS</key>
+	<string>Foldery</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>Ekran Blokady Odtwarzacz Multimedialny</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>Ekran Główny Szybkie Akcje</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>Aplikacji (Beta)</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+    <string>Po ustawieniu tej opcji na Domyślnie, trzeba będzie zrestartować aplikacje, które zostały zmuszone do korzystania z ich jasne/ciemny, aby powrócić do standardowe zachowanie. Naprawi to również respring.</string>
+    <key>APPLICATIONS</key>
+    <string>Applications</string>
+    <key>ABOUT_LABEL</key>
+    <string>O</string>
+    <key>ABOUT_FOOTER</key>
+    <string>Dawn miała kosztować 1$,ale zdecydowałem się wydaje za darmo.Jeśli możesz przekazać 1$ (darowizny dowolnej wielkości są bardzo cenione) to byłoby to niesamowite! Dziękuję za wykorzystanie Dawn. Mam nadzieję, że spodoba Ci się to tak samo jak mnie.</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>Datkuj z PayPal</string>
+    <key>DONATE_NOTE</key>
+    <string> Wszystkie datki są bardzo cenione!</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>Stworzone przez EthanRDoesMC</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>Przetłumaczone przez DMXXOR</string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>Background Image © 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>Localization Credits</string>
+</dict>
+</plist>

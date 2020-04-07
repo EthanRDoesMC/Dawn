@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+    <key>DEFAULT</key>
+    <string>Standard</string>
+    <key>LIGHT</key>
+    <string>Hell</string>
+    <key>DARK</key>
+    <string>Dunkel</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>Banner und Benachrichtigungen</string>
+	<key>DOCK</key>
+	<string>Dock</string>
+	<key>WIDGETS</key>
+	<string>Widgets</string>
+	<key>NC_BUTTONS</key>
+	<string>Mitteilungszentrum-Buttons</string>
+	<key>FOLDERS</key>
+	<string>Ordner</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>Medienplayer (Sperrbildschirm)</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>Schnellaktionen bzw. 3D Touch (Homebildschirm)</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>Applikationen (Beta)</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+	<string>Nachdem du diese Einstellung auf Standard setzt, musst du jede App, bei der du den hellen/dunklen Modus erzwungen hast, neustarten, damit diese so wie gewollt funktionieren. Ein Respring wird es ebenfalls beheben.</string>
+    <key>APPLICATIONS</key>
+    <string>Applikationen</string>
+    <key>ABOUT_LABEL</key>
+    <string>Über Dawn</string>
+    <key>ABOUT_FOOTER</key>
+    <string>Dawn sollte ursprünglich $1 kosten, jedoch habe ich mich entschieden es kostenfrei zur Verfügung zu stellen. Wenn du $1 oder mehr spenden könntest, wäre ich sehr erfreut! Vielen Dank, dass du Dawn benutzt. Ich hoffe dir gefällt es genau so sehr wie mir selber.</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>Mit PayPal spenden</string>
+    <key>DONATE_NOTE</key>
+    <string>Jede einzelne Spende wird sehr geschätzt!</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>Erstellt von EthanRDoesMC</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>Deutsche Übersetzung von eins_hund</string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>Hintergrundbild © 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>Übersetzer-Credits</string>
+</dict>
+</plist>

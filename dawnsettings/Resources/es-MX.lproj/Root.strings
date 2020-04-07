@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT_FOOTER</key>
+	<string>Originalmente, Dawn iba a costar $1, pero decidí publicarlo gratis. Si puedes donar $1 (donaciones de cualquier tamaño son muy apreciadas) será estupendo! Gracias por usar Dawn. Espero que lo disfrute mucho como yo.</string>
+	<key>ABOUT_LABEL</key>
+	<string>Información</string>
+	<key>APPLICATIONS</key>
+	<string>Aplicaciones</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+	<string>Después de poner está opción como Predeterminada, necesitas reiniciar las aplicaciones que fueron forzadas a usar su apariencia Clara/Obscura para que vuelvan a actuar normal. Un respring tambíen arreglara esto.</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>Aplicaciones (Beta)</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>Tiras y Notificaciones</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>Creado por EthanRDoesMC</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>Traducido a Español por Angel Cuevas-Preciado</string>
+	<key>DARK</key>
+	<string>Obscuro</string>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+	<key>DEFAULT</key>
+	<string>Predeterminado</string>
+	<key>DOCK</key>
+	<string>Dock</string>
+	<key>DONATE_NOTE</key>
+	<string>Todas Donaciones Son Muy Apreciadas</string>
+	<key>DONATE_PAYPAL</key>
+	<string>Donar con PayPal</string>
+	<key>ETHANRDOESMC_TWITTER</key>
+	<string>EthanRDoesMC</string>
+	<key>ETHAN_WEBSITE</key>
+	<string>EthanRDoesMC</string>
+	<key>FOLDERS</key>
+	<string>Carpetas</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>Acciones en la Pantalla de Inicio</string>
+	<key>IMAGE_COPYRIGHT</key>
+	<string>Imagen de Fondo © 2019 EthanRDoesMC.</string>
+	<key>LIGHT</key>
+	<string>Claro</string>
+	<key>LOCALIZATION_CREDITS</key>
+	<string>Créditos de Localización</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>Media Player de la Pantalla Bloqueada</string>
+	<key>NC_BUTTONS</key>
+	<string>Botones del Centro de Notificaciones</string>
+	<key>WIDGETS</key>
+	<string>Widgets</string>
+</dict>
+</plist>

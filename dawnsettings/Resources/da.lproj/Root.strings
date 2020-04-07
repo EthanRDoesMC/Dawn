@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+    <key>DEFAULT</key>
+    <string>Standard</string>
+    <key>LIGHT</key>
+    <string>Lys</string>
+    <key>DARK</key>
+    <string>Mørk</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>Bannere og Meddelelser</string>
+	<key>DOCK</key>
+	<string>Dock</string>
+	<key>WIDGETS</key>
+	<string>Widgets</string>
+	<key>NC_BUTTONS</key>
+	<string>Meddelelsescenterets Knapper</string>
+	<key>FOLDERS</key>
+	<string>Mapper</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>Lock Screen Musikafspiller</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>Home Screen 3D Touch eller Haptisk tryk</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>Applikationer (Beta)</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+    <string>Når du har valgt standard, skal du genstarte applikationer der har været tvunget til at bruge lys/mørk udseende for at få dem tilbage til normal igen. Et simpelt Respring kan også klare det.</string>
+    <key>APPLICATIONS</key>
+    <string>Applikationer</string>
+    <key>ABOUT_LABEL</key>
+    <string>Om</string>
+    <key>ABOUT_FOOTER</key>
+    <string>Dawn skulle normalt have kostet penge, men jeg har valgt at udgive det helt gratis. Så hvis du kan og har lyst, ville jeg sætte stor pris på en lille donation uanset beløbets størrelse. Håber du kommer til at nyde det ligeså meget som jeg gør!</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>Støt mig via PayPal</string>
+    <key>DONATE_NOTE</key>
+    <string>Alle donationer er mere end velkommen!</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>Lavet af EthanRDoesMC</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>Dansk Oversættelse af Xen0pi @realx3n</string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>Baggrundsbillede © 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>Oversættelser</string>
+</dict>
+</plist>

@@ -1,5 +1,4 @@
 # Dawn
 Override dark and light styles.
 
-
-# This repo will be live as soon as I wake up!
+If you use some of this for your tweak, I'd appreciate a mention, but you don't have to :)

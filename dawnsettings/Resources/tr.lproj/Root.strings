@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+    <key>DEFAULT</key>
+    <string>Varsayılan</string>
+    <key>LIGHT</key>
+    <string>Açık</string>
+    <key>DARK</key>
+    <string>Koyu</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>Başlıklar ve Bildirimler</string>
+	<key>DOCK</key>
+	<string>Dock</string>
+	<key>WIDGETS</key>
+	<string>Wıdgetlar</string>
+	<key>NC_BUTTONS</key>
+	<string>Bildirim Merkezi Butonları</string>
+	<key>FOLDERS</key>
+	<string>Klasörler</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>Kilit Ekranı Medya Oynatıcısı</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>Ana Ekran Hızlı İşlemler</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>Uygulamalar (Beta)</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+    <string>Bu seçeneği Varsayılan olarak ayarladıktan sonra, varsayılana hallerine dönebilmeleri için açık / koyu görünümlerini kullanmaya zorlanan uygulamaları yeniden başlatmanız gerekir. Ayrıca respring de düzeltir.</string>
+    <key>APPLICATIONS</key>
+    <string>Uygulamalar</string>
+    <key>ABOUT_LABEL</key>
+    <string>Hakkında</string>
+    <key>ABOUT_FOOTER</key>
+    <string>Dawn $1 dolar olacaktı fakat son anda ücretsiz yapmaya karar verdim! Eğer ki $1 dolar bağışlarsanız (Her miktardaki bağışlarınıza çok memnun olurum) mükemmel olur! Dawn kullandığınız için teşekkür ederim. Umarım benim eğlendiğim kadar siz de eğlenirsiniz!</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>PayPal ile bağışla</string>
+    <key>DONATE_NOTE</key>
+    <string>Tüm bağışlara teşekkür ederim!</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>EthanRDoesMC tarafından yapıldı!</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>Haurogh tarafından çevrildi!</string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>Arkaplan Fotoğrafı © 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>Haurogh</string>
+</dict>
+</plist>

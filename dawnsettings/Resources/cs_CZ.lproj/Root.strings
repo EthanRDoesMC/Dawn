@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+    <key>DEFAULT</key>
+    <string>Výchozí</string>
+    <key>LIGHT</key>
+    <string>Světlé</string>
+    <key>DARK</key>
+    <string>Tmavé</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>Bannery a Oznámení</string>
+	<key>DOCK</key>
+	<string>Dock</string>
+	<key>WIDGETS</key>
+	<string>Widgety</string>
+	<key>NC_BUTTONS</key>
+	<string>Tlačítka v Oznamovacím Centru</string>
+	<key>FOLDERS</key>
+	<string>Složky</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>Přehrávač Médií na Zamykací Obrazovce</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>Rychlé Akce na Domovské Obrazovce</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>Aplikace (BETA)</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+    <string>Poté co vrátíte aplikace do Výchozího nastavení, budete muset restartovat ty, které předtím používaly nastavení Světlé/Tmavé, aby se vrátily ke svému výchozímu vzhledu. Respring by měl také fungovat.</string>
+    <key>APPLICATIONS</key>
+    <string>Aplikace</string>
+    <key>ABOUT_LABEL</key>
+    <string>O Dawnu</string>
+    <key>ABOUT_FOOTER</key>
+    <string>Dawn měl původně stát 1$, ale nakonec jsem se rozhodl ho vydat zdarma. Pokud ale máte možnost darovat 1$ (vážím si darů o jakékoliv výši), tak by to bylo skvělé! Díky, že používáte Dawn a doufám, že si ho užijete tolik, jako si ho užívám já.</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>Dar pomocí PayPal</string>
+    <key>DONATE_NOTE</key>
+    <string>Važím si všech darů!</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>Vytvořeno: EthanRDoesMC</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>Český překlad: mBoiPat</string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>Pozadí: © 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>Zásluhy na lokalizacích</string>
+</dict>
+</plist>

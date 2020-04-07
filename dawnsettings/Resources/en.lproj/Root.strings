@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+    <key>DEFAULT</key>
+    <string>Default</string>
+    <key>LIGHT</key>
+    <string>Light</string>
+    <key>DARK</key>
+    <string>Dark</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>Banners and Notifications</string>
+	<key>DOCK</key>
+	<string>Dock</string>
+	<key>WIDGETS</key>
+	<string>Widgets</string>
+	<key>NC_BUTTONS</key>
+	<string>Notification Center Buttons</string>
+	<key>FOLDERS</key>
+	<string>Folders</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>Lock Screen Media Player</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>Home Screen Quick Actions</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>Applications (Beta)</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+    <string>After setting this option to Default, you'll need to restart applications that were forced to use their light/dark appearance in order for them to return to stock behavior. A respring will also fix it.</string>
+    <key>APPLICATIONS</key>
+    <string>Applications</string>
+    <key>ABOUT_LABEL</key>
+    <string>About</string>
+    <key>ABOUT_FOOTER</key>
+    <string>Dawn was going to cost $1, but I decided to release it for free. If you can donate $1 (donations of any size are greatly appreciated) it would be amazing! Thank you for using Dawn. I hope you enjoy it as much as I do.</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>Donate with PayPal</string>
+    <key>DONATE_NOTE</key>
+    <string>All donations are greatly appreciated!</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>Created by EthanRDoesMC</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string> </string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>Background Image © 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>Localization Credits</string>
+</dict>
+</plist>

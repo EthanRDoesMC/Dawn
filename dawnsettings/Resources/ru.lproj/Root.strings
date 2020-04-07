@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+    <key>DEFAULT</key>
+    <string>По умолчанию</string>
+    <key>LIGHT</key>
+    <string>Светлый</string>
+    <key>DARK</key>
+    <string>Тёмный</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>Уведомления</string>
+	<key>DOCK</key>
+	<string>Dock</string>
+	<key>WIDGETS</key>
+	<string>Виджеты</string>
+	<key>NC_BUTTONS</key>
+	<string>Элементы Пункта Управления</string>
+	<key>FOLDERS</key>
+	<string>Папки</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>Медиа Плеер Экрана Блокировки</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>Быстрые Действия Домашнего Экрана</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>Приложения (Бета)</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+    <string>После переключения этой опции к По умолчанию, вам нужно будет перезапустить приложения, которые были вынуждены использовать светлое/тёмное оформление, чтобы вернуть им обычное поведение. Перезапуск SpringBoard также исправит это.</string>
+    <key>APPLICATIONS</key>
+    <string>Приложения</string>
+    <key>ABOUT_LABEL</key>
+    <string>О Программе</string>
+    <key>ABOUT_FOOTER</key>
+    <string>Dawn должен был стоить $1, но я решил выпустить его бесплатно. Если вы можете отправить $1 (подарки любой величины высоко ценятся), это было бы потрясающе! Спасибо за использование Dawn. Я надеюсь, вам нравится настолько же, как и мне.</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>Подарите через PayPal</string>
+    <key>DONATE_NOTE</key>
+    <string>Все дарения высоко ценятся!</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>Создатель - EthanRDoesMC</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>Переводчик - gkeep</string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>Фоновое Изображение © 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>Переводчики</string>
+</dict>
+</plist>

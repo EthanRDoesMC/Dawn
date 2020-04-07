@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DAWN_TITLE</key>
+	<string>Dawn</string>
+    <key>DEFAULT</key>
+    <string>デフォルト</string>
+    <key>LIGHT</key>
+    <string>ライト</string>
+    <key>DARK</key>
+    <string>ダーク</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>通知とバナー</string>
+	<key>DOCK</key>
+	<string>ドック</string>
+	<key>WIDGETS</key>
+	<string>ウィジェット</string>
+	<key>NC_BUTTONS</key>
+	<string>通知センターのボタン</string>
+	<key>FOLDERS</key>
+	<string>フォルダ</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>ロック画面の音楽コントローラ</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>ホーム画面のクイックアクション</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>アプリケーション内（β版）</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+    <string>この機能はβ版です．ライトまたはダークからデフォルトに変更した場合，適用するにはアプリを強制終了するかリスプリングを行う必要があります（他の機能は直ちに適用されます）．</string>
+    <key>APPLICATIONS</key>
+    <string>Applications</string>
+    <key>ABOUT_LABEL</key>
+    <string>この tweak について</string>
+    <key>ABOUT_FOOTER</key>
+    <string>Dawn をご使用いただき，ありがとうございます．当初は $1 の予定でしたが，無料でリリースすることにしました．もし $1 を寄付してくださったら，とても嬉しいです（もちろん，金額によらず，寄付してくださる方々には本当に感謝しています）．制作者である私と同じように Dawn を気に入って使ってくれたらと思います！</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>Paypal で寄付する</string>
+    <key>DONATE_NOTE</key>
+    <string>All donations are greatly appreciated!</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>EthanRDoesMC が作りました．</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string>Japanese Tkanslation by Rinta Imatsu</string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>Background Image ﾂｩ 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>Localization Credits</string>
+</dict>
+</plist>
