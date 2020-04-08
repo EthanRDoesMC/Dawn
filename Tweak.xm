@@ -25,6 +25,10 @@
 -(void)updateTraitOverride;
 @end
 
+@interface SBFloatingDockView : UIView
+-(void)updateTraitOverride;
+@end
+
 @interface WGWidgetPlatterView : UIView
 -(void)updateTraitOverride;
 @end
@@ -153,6 +157,26 @@ NSInteger apps;
 }
 %end
 
+//iPadOS
+%hook SBFloatingDockView
+%new
+-(void)updateTraitOverride {
+    [self setOverrideUserInterfaceStyle:dock];
+}
+-(id)initWithFrame:(CGRect)arg1 {
+    if ((self = %orig)) {
+        [NSNotificationCenter.defaultCenter addObserver:self selector:@selector(updateTraitOverride) name:@"com.ethanrdoesmc.dawn/override" object:nil];
+        [self setOverrideUserInterfaceStyle:dock];
+    }
+    return self;
+}
+-(void)didMoveToWindow {
+    if (dock > 0) {
+        [self setOverrideUserInterfaceStyle:dock];
+    }
+    %orig;
+}
+%end
 #pragma mark - Widgets
 %hook WGWidgetPlatterView
 %new

@@ -5,7 +5,7 @@
 	<key>DAWN_TITLE</key>
 	<string>Dawn</string>
     <key>DEFAULT</key>
-    <string>デフォルト</string>
+    <string>本体設定</string>
     <key>LIGHT</key>
     <string>ライト</string>
     <key>DARK</key>
@@ -29,11 +29,11 @@
 	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
     <string>この機能はβ版です．ライトまたはダークからデフォルトに変更した場合，適用するにはアプリを強制終了するかリスプリングを行う必要があります（他の機能は直ちに適用されます）．</string>
     <key>APPLICATIONS</key>
-    <string>Applications</string>
+    <string>アプリケーション内（β版）</string>
     <key>ABOUT_LABEL</key>
     <string>この tweak について</string>
     <key>ABOUT_FOOTER</key>
-    <string>Dawn をご使用いただき，ありがとうございます．当初は $1 の予定でしたが，無料でリリースすることにしました．もし $1 を寄付してくださったら，とても嬉しいです（もちろん，金額によらず，寄付してくださる方々には本当に感謝しています）．制作者である私と同じように Dawn を気に入って使ってくれたらと思います！</string>
+    <string>Dawn をご使用いただき，ありがとうございます．当初は $1 の予定でしたが，無料にしました．その分の $1 を寄付していただけると，とても助かります（もちろん，金額によらず，寄付してくださる方々には本当に感謝しています）．制作者である私と同じように Dawn を気に入ってもらえたら嬉しいです！</string>
     <key>ETHAN_WEBSITE</key>
     <string>EthanRDoesMC</string>
     <key>ETHANRDOESMC_TWITTER</key>
@@ -41,14 +41,14 @@
     <key>DONATE_PAYPAL</key>
     <string>Paypal で寄付する</string>
     <key>DONATE_NOTE</key>
-    <string>All donations are greatly appreciated!</string>
+    <string>よろしくお願いします</string>
 	<key>CREATED_BY_ETHANRDOESMC</key>
-	<string>EthanRDoesMC が作りました．</string>
+	<string>制作者：EthanRDoesMC</string>
 	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
-	<string>Japanese Tkanslation by Rinta Imatsu</string>
+	<string>日本語訳：Rinta Imatsu（u/Rinta0622）</string>
     <key>IMAGE_COPYRIGHT</key>
-    <string>Background Image ﾂｩ 2019 EthanRDoesMC.</string>
+    <string>背景画像 © 2019 EthanRDoesMC.</string>
     <key>LOCALIZATION_CREDITS</key>
-    <string>Localization Credits</string>
+    <string>翻訳者</string>
 </dict>
 </plist>

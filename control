@@ -1,6 +1,6 @@
 Package: com.ethanrdoesmc.dawn
 Name: Dawn
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Customize dark and light mode. Dark elements in light mode and vice versa.
 Maintainer: EthanRDoesMC
