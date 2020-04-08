@@ -2,53 +2,53 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>ABOUT_FOOTER</key>
-	<string>كنت على وشك ان أطلق Dawn بسعر $1،  لكن قررت ان اطلقة مجانا. اذا كنت تستطيع التبرع بأي مبلغ،  اقدر هذا كثيرا. شكرا لك لاستخدام Dawn،  اتمنى ان تستمتع به.</string>
-	<key>ABOUT_LABEL</key>
-	<string>حول</string>
-	<key>APPLICATIONS</key>
-	<string>التطبيقات</string>
-	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
-	<string>بعد تفعيل هذا الخيار الى الوضع الأفتراضي،  يجب غلق و أعادة تشغيل التطبيقات التي كانت تستخدم الوضع الفاتح\الداكن،  من اجل اعادتها الى وضعها الطبيعي.</string>
-	<key>APPLICATIONS_BETA_LABEL</key>
-	<string>التطبيقات (بيتا)</string>
-	<key>BANNERS_NOTIFICATIONS</key>
-	<string>الشعارات والتنبيهات</string>
-	<key>CREATED_BY_ETHANRDOESMC</key>
-	<string>المطور EthanRDoesMC</string>
-	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
-	<string>ترجمة للعربية sevenpastzeero</string>
-	<key>DARK</key>
-	<string>داكن</string>
 	<key>DAWN_TITLE</key>
 	<string>Dawn</string>
-	<key>DEFAULT</key>
-	<string>إفتراضي</string>
+    <key>DEFAULT</key>
+    <string>Default</string>
+    <key>LIGHT</key>
+    <string>Light</string>
+    <key>DARK</key>
+    <string>Dark</string>
+	<key>BANNERS_NOTIFICATIONS</key>
+	<string>Banners and Notifications</string>
 	<key>DOCK</key>
-	<string>شريط الايقونات</string>
-	<key>DONATE_NOTE</key>
-	<string>كل التبرعات تحظى بتقدير كبير،  شكرا!</string>
-	<key>DONATE_PAYPAL</key>
-	<string>التبرع عن طريق پاي پال</string>
-	<key>ETHANRDOESMC_TWITTER</key>
-	<string>صفحة تويتر للمطور</string>
-	<key>ETHAN_WEBSITE</key>
-	<string>موقع المطور</string>
-	<key>FOLDERS</key>
-	<string>المجلدات</string>
-	<key>HS_QUICK_ACTIONS</key>
-	<string>قائمة الخيارات السريعة للشاشة الرئيسية</string>
-	<key>IMAGE_COPYRIGHT</key>
-	<string>صورة الخلفية © 2019 EthanRDoesMC.</string>
-	<key>LIGHT</key>
-	<string>فاتح</string>
-	<key>LOCALIZATION_CREDITS</key>
-	<string>الشكر للمترجمين</string>
-	<key>LS_MEDIA_PLAYER</key>
-	<string>مشغل الوسائط لشاشة القفل</string>
-	<key>NC_BUTTONS</key>
-	<string>زر مركز الأشعارات</string>
+	<string>Dock</string>
 	<key>WIDGETS</key>
-	<string>الأدوات</string>
+	<string>Widgets</string>
+	<key>NC_BUTTONS</key>
+	<string>Notification Center Buttons</string>
+	<key>FOLDERS</key>
+	<string>Folders</string>
+	<key>LS_MEDIA_PLAYER</key>
+	<string>Lock Screen Media Player</string>
+	<key>HS_QUICK_ACTIONS</key>
+	<string>Home Screen Quick Actions</string>
+	<key>APPLICATIONS_BETA_LABEL</key>
+	<string>Applications (Beta)</string>
+	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
+    <string>After setting this option to Default, you'll need to restart applications that were forced to use their light/dark appearance in order for them to return to stock behavior. A respring will also fix it.</string>
+    <key>APPLICATIONS</key>
+    <string>Applications</string>
+    <key>ABOUT_LABEL</key>
+    <string>About</string>
+    <key>ABOUT_FOOTER</key>
+    <string>Dawn was going to cost $1, but I decided to release it for free. If you can donate $1 (donations of any size are greatly appreciated) it would be amazing! Thank you for using Dawn. I hope you enjoy it as much as I do.</string>
+    <key>ETHAN_WEBSITE</key>
+    <string>EthanRDoesMC</string>
+    <key>ETHANRDOESMC_TWITTER</key>
+    <string>EthanRDoesMC</string>
+    <key>DONATE_PAYPAL</key>
+    <string>Donate with PayPal</string>
+    <key>DONATE_NOTE</key>
+    <string>All donations are greatly appreciated!</string>
+	<key>CREATED_BY_ETHANRDOESMC</key>
+	<string>Created by EthanRDoesMC</string>
+	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
+	<string> </string>
+    <key>IMAGE_COPYRIGHT</key>
+    <string>Background Image © 2019 EthanRDoesMC.</string>
+    <key>LOCALIZATION_CREDITS</key>
+    <string>Localization Credits</string>
 </dict>
 </plist>
