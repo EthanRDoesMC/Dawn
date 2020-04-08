@@ -5,50 +5,50 @@
 	<key>DAWN_TITLE</key>
 	<string>Dawn</string>
     <key>DEFAULT</key>
-    <string>Default</string>
+    <string>افتراضي</string>
     <key>LIGHT</key>
-    <string>Light</string>
+    <string>فاتح</string>
     <key>DARK</key>
-    <string>Dark</string>
+    <string>داكن</string>
 	<key>BANNERS_NOTIFICATIONS</key>
-	<string>Banners and Notifications</string>
+	<string>الشعارات والإشعارات</string>
 	<key>DOCK</key>
 	<string>Dock</string>
 	<key>WIDGETS</key>
-	<string>Widgets</string>
+	<string>الويدجات</string>
 	<key>NC_BUTTONS</key>
-	<string>Notification Center Buttons</string>
+	<string>أزرار مركز الإشعارات</string>
 	<key>FOLDERS</key>
-	<string>Folders</string>
+	<string>المجلدات</string>
 	<key>LS_MEDIA_PLAYER</key>
-	<string>Lock Screen Media Player</string>
+	<string>مشغل موسيقى شاشة القفل</string>
 	<key>HS_QUICK_ACTIONS</key>
-	<string>Home Screen Quick Actions</string>
+	<string>إجراءات الشاشة الرئيسية السريعة</string>
 	<key>APPLICATIONS_BETA_LABEL</key>
-	<string>Applications (Beta)</string>
+	<string>التطبيقات (تجريبي)</string>
 	<key>APPLICATIONS_BETA_DEFAULT_HELP</key>
-    <string>After setting this option to Default, you'll need to restart applications that were forced to use their light/dark appearance in order for them to return to stock behavior. A respring will also fix it.</string>
+    <string>بعد تعيين هذا الخيار على افتراضي، ستحتاج إلى إعادة تشغيل التطبيقات التي تم إجبارها على استخدام مظهرها الفاتح/الداكن لكي تعود إلى سلوكها الأصلي. إعادة التشغيل السريع ستصلح الأمر أيضًا.</string>
     <key>APPLICATIONS</key>
-    <string>Applications</string>
+    <string>التطبيقات</string>
     <key>ABOUT_LABEL</key>
-    <string>About</string>
+    <string>حول</string>
     <key>ABOUT_FOOTER</key>
-    <string>Dawn was going to cost $1, but I decided to release it for free. If you can donate $1 (donations of any size are greatly appreciated) it would be amazing! Thank you for using Dawn. I hope you enjoy it as much as I do.</string>
+    <string>أداة Dawn كانت ستكلف 1.00$، ولكني قررت أن أطلقها مجانًا. إذا كان بإمكانك التبرع بـ 1.00$ سيكون الأمر مدهشًا (كل التبرعات بأي قيمة سواءً كانت صغيرة كبيرة فهي محل تقدير).! شكرًا لاستخدامك Dawn. آمل أن تستمتع بها بقدر ما أستمتع بها أنا.</string>
     <key>ETHAN_WEBSITE</key>
     <string>EthanRDoesMC</string>
     <key>ETHANRDOESMC_TWITTER</key>
     <string>EthanRDoesMC</string>
     <key>DONATE_PAYPAL</key>
-    <string>Donate with PayPal</string>
+    <string>التبرع عبر PayPal</string>
     <key>DONATE_NOTE</key>
-    <string>All donations are greatly appreciated!</string>
+    <string>تحظى كل التبرعات بتقدير كبير!</string>
 	<key>CREATED_BY_ETHANRDOESMC</key>
-	<string>Created by EthanRDoesMC</string>
+	<string>تم إنشاؤها بواسطة EthanRDoesMC</string>
 	<key>CREDIT_YOUR_TRANSLATION_TYSM</key>
-	<string> </string>
+	<string>الترجمة للغة العربية تمت بواسطة A7med.y</string>
     <key>IMAGE_COPYRIGHT</key>
     <string>Background Image © 2019 EthanRDoesMC.</string>
     <key>LOCALIZATION_CREDITS</key>
-    <string>Localization Credits</string>
+    <string>اعتمادات التوطين</string>
 </dict>
 </plist>
