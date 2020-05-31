@@ -497,9 +497,10 @@ void settingsChanged() {
 
 #pragma mark - Constructor
 %ctor {
-    preferences = [[HBPreferences alloc] initWithIdentifier:@"com.ethanrdoesmc.dawn"];
-    settingsChanged();
-    CFNotificationCenterAddObserver(CFNotificationCenterGetDarwinNotifyCenter(), NULL, (CFNotificationCallback)settingsChanged, CFSTR("com.ethanrdoesmc.dawn/settingsChanged"), NULL, kNilOptions);
-    
-    %init;
+    if ([[[[NSProcessInfo processInfo] arguments] objectAtIndex:0] containsString:@"/Application"] || [[[[NSProcessInfo processInfo] arguments] objectAtIndex:0] containsString:@"SpringBoard.app"]) {
+        preferences = [[HBPreferences alloc] initWithIdentifier:@"com.ethanrdoesmc.dawn"];
+        settingsChanged();
+        CFNotificationCenterAddObserver(CFNotificationCenterGetDarwinNotifyCenter(), NULL, (CFNotificationCallback)settingsChanged, CFSTR("com.ethanrdoesmc.dawn/settingsChanged"), NULL, kNilOptions);
+        %init;
+    }
 }
