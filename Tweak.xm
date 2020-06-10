@@ -111,7 +111,7 @@ NSInteger apps;
         [self setOverrideUserInterfaceStyle:banners];
     }
     %orig;
-    
+
 }
 %end
 //Long Look
@@ -132,7 +132,7 @@ NSInteger apps;
         [self setOverrideUserInterfaceStyle:banners];
     }
     %orig;
-    
+
 }
 %end
 
@@ -471,27 +471,27 @@ NSInteger apps;
 
 #pragma mark - Settings Manager
 void settingsChanged() {
-    
+
     [preferences registerInteger:&banners default:0 forKey:@"banners"];
-    
+
     [preferences registerInteger:&dock default:0 forKey:@"dock"];
-    
+
     [preferences registerInteger:&widgets default:0 forKey:@"widgets"];
-    
+
     [preferences registerInteger:&nctoggles default:0 forKey:@"nctoggles"];
-    
+
     [preferences registerInteger:&folders default:0 forKey:@"folders"];
-    
+
     //[preferences registerInteger:&keyboard default:0 forKey:@"keyboard"];
-    
+
     [preferences registerInteger:&player default:0 forKey:@"player"];
-    
+
     [preferences registerInteger:&hsquickactions default:0 forKey:@"hsquickactions"];
-    
+
     //[preferences registerInteger:&faceid default:0 forKey:@"faceid"];
-    
+
     [preferences registerInteger:&apps default:0 forKey:@"apps"];
-    
+
     [NSNotificationCenter.defaultCenter postNotificationName:@"com.ethanrdoesmc.dawn/override" object:nil];
 }
 
