@@ -57,11 +57,6 @@
 -(void)updateTraitOverride;
 @end
 
-//@interface UIKBRenderConfig : NSObject
-//-(void)updateTraitOverride;
-//-(void)setLightKeyboard:(BOOL)arg1;
-//@end
-
 @interface CSNotificationAdjunctListViewController : UIViewController
 -(void)updateTraitOverride;
 @end
@@ -86,7 +81,7 @@ NSInteger dock;
 NSInteger widgets;
 NSInteger nctoggles;
 NSInteger folders;
-//NSInteger keyboard;
+NSInteger keyboard;
 NSInteger player;
 NSInteger hsquickactions;
 //NSInteger faceid;
@@ -334,20 +329,16 @@ NSInteger apps;
 }
 %end
 
-#pragma mark - Keyboard | On Hold
-//%hook UIKBRenderConfig
-//-(void)setLightKeyboard:(BOOL)arg1 {
-//    if (keyboard == 1) {
-//        %orig(TRUE);
-//    }
-//    else if (keyboard == 2) {
-//        %orig(FALSE);
-//    }
-//    else {
-//        %orig;
-//    }
-//}
-//%end
+#pragma mark - Keyboard
+%hook UITextInputTraits
+- (long long)keyboardAppearance {
+    long long origValue = %orig;
+    if ( keyboard > 0 ) {
+        return keyboard;
+    }
+    return origValue;
+}
+%end
 
 #pragma mark - Music Player
 %hook CSNotificationAdjunctListViewController
@@ -482,7 +473,7 @@ void settingsChanged() {
 
     [preferences registerInteger:&folders default:0 forKey:@"folders"];
 
-    //[preferences registerInteger:&keyboard default:0 forKey:@"keyboard"];
+    [preferences registerInteger:&keyboard default:0 forKey:@"keyboard"];
 
     [preferences registerInteger:&player default:0 forKey:@"player"];
 
