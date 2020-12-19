@@ -332,11 +332,10 @@ NSInteger apps;
 #pragma mark - Keyboard
 %hook UITextInputTraits
 - (long long)keyboardAppearance {
-    long long origValue = %orig;
     if ( keyboard > 0 ) {
         return keyboard;
     }
-    return origValue;
+    return %orig;
 }
 %end
 
